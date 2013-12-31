@@ -1,4 +1,4 @@
-# L24 Git In-Class Exercise
+# Git In-Class Exercise
 
 We introduced git in the first Computer Exercise and you got some practice with it but I'm sure there's still some confusion - so I'm going to use first 20 minutes of class to work through an exercise.
 
@@ -6,7 +6,7 @@ We introduced git in the first Computer Exercise and you got some practice with 
 
 Capt Trimble, Dr. Neebel and I need to know your accounts in order to review your lab turn-ins. It's also helpful for you to know the accounts of your classmates so you can collaborate on future work.
 
-I've create a repo to track your accounts that only contains a README.md file: https://github.com/sivwizinbiznilva/ECE281-student-accounts 
+I've created a repo to track your accounts that only contains a README.md file: https://github.com/sivwizinbiznilva/ECE281-student-accounts 
 
 Your task for this exercise is to add your name and account to the README.md file and send me a request to merge your changes back into my master branch.
 
