@@ -39,7 +39,7 @@ Your task for this exercise is to add your name and account to the README.md fil
 - Let's push our changes back up to Github
     - Type `git push`, enter your username / password
     - The changes should now be reflected in your repo on Github
-- Now you need to ask me to merge the changes back into my branch - this is call a **pull request**.  You want me to pull changes into my branch from you.
+- Now you need to ask me to merge the changes back into my branch - this is called a **pull request**.  You want me to pull changes into my branch from you.
     - Navigate to your fork of the repo on GitHub
     - Click the Pull Request button at the right of the screen.
     - Click the New pull request button at the right.
