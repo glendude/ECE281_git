@@ -1,6 +1,6 @@
 # Git In-Class Exercise
 
-We introduced git in the first Computer Exercise and you got some practice with it but I'm sure there's still some confusion - so I'm going to use first 20 minutes of class to work through an exercise.
+We introduced git in Computer Exercise 1 and you got some practice with it but I'm sure there's still some confusion - so I'm going to use first 20 minutes of class to work through an exercise.
 
 ## The Basic Idea
 
