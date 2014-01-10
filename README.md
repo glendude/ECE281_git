@@ -17,7 +17,7 @@ Your task for this exercise is to add your name and account to the README.md fil
     - Push the fork button at the top right of the screen
     - Now you have your own copy!
     - You should be redirected to a duplicate repo in your own account
-- Now you need to **clone** the repo to our computer so you can make changes
+- Now you need to **clone** the repo to your computer so you can make changes
     - Note the URL in your browser - this is the address of the repo
     - In Git Bash, `cd` to the directory where you want the repo stored and type `git clone REPO_URL`
         - Now you've got a copy of the repo on your local computer!
