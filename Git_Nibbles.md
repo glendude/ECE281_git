@@ -1,6 +1,7 @@
 # Git Nibbles Exercise
 
 Do you:
+
 1. Want to get started using git? 
 2. Want to make your own open-source repository on Github? 
 3. Not know what 1. or 2. even mean?
