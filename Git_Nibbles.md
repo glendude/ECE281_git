@@ -1,6 +1,12 @@
 # Git Nibbles Exercise
 
-We introduced git in Computer Exercise 1 and you got some practice with it but I'm sure there's still some confusion - so I'm going to use first 20 minutes of class to work through an exercise.
+Do you:
+1. Want to get started using git? 
+2. Want to make your own open-source repository on Github? 
+3. Not know what 1. or 2. even mean?
+
+I'm here to help get you started. Along the way I'll introduce you to the world of version
+control and open-source software development...exciting! 
 
 ## The Basic Idea
 
