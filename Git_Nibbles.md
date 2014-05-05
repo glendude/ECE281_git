@@ -19,6 +19,18 @@ During the next hour I'll present:
 - How to get started using git
 - How to get started using Github 
 
+## Why?
+
+
+
+## How did we get here?
+
+## Git vs Github
+
+## Your first local repository!
+
+## Your first open-source repository!
+
 ## Step-by-Step Process
 
 - Navigate to the repo: https://github.com/sivwizinbiznilva/ECE281-student-accounts 
