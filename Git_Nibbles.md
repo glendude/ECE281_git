@@ -1,4 +1,4 @@
-# Git In-Class Exercise
+# Git Nibbles Exercise
 
 We introduced git in Computer Exercise 1 and you got some practice with it but I'm sure there's still some confusion - so I'm going to use first 20 minutes of class to work through an exercise.
 
