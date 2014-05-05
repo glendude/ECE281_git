@@ -9,13 +9,15 @@ Do you:
 I'm here to help get you started. Along the way I'll introduce you to the world of version
 control and open-source software development...exciting! 
 
-## The Basic Idea
+## Overview 
 
-Capt Trimble, Dr. Neebel and I need to know your accounts in order to review your lab turn-ins. It's also helpful for you to know the accounts of your classmates so you can collaborate on future work.
+During the next hour I'll present:
 
-I've created a repo to track your accounts that only contains a README.md file: https://github.com/sivwizinbiznilva/ECE281-student-accounts 
-
-Your task for this exercise is to add your name and account to the README.md file and send me a request to merge your changes back into my master branch.
+- The reasons these tools exist and why they make our lives easier
+- A condensed history of git and Github's place within the general GNU movement 
+- Git vs Github
+- How to get started using git
+- How to get started using Github 
 
 ## Step-by-Step Process
 
