@@ -48,13 +48,13 @@ Because: version control
   Bitkeeper](http://www.infoworld.com/t/platforms/linus-torvalds-bitkeeper-blunder-905) (first DVCS) when developing Linux
 - Bitkeeper worked great! Linus = :)
 - Bitkeeper was proprietary. [Richard Stallman (GNU/FSF) = :(](http://developers.slashdot.org/comments.pl?sid=145174&cid=12154255)
-- Linus wrote git  
+- Linus wrote git and released it as free and open in 2005 
 
 ## Git vs Github
 
 Git = Version Control Software (creates repos)
 
-Github = Hosting service for repos created by Git
+Github = Free hosting service for repos created by Git
 
 ## Your first local repository!
 
@@ -69,6 +69,14 @@ Software you will need:
     1. You'll definitely have to [download git](http://msysgit.googlecode.com/files/Git-1.8.4-preview20130916.exe)
     2. A text editor like gvim or Notepad++
 
+Time to follow [Todd's amazing Git tutorial](http://ece382.com/datasheets/git_tutorial.html)
+	- This tutorial will walk you through how to:
+		- Configure git
+		- Create a repository
+		- Create a file to track
+		- Add the file to the repository
+		- Commit changes
+		- Revert to prior versions
 ## Your first open-source repository!
 
 ## Step-by-Step Process
