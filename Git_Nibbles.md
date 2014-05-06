@@ -38,7 +38,8 @@ Because: version control
 
 - [Linus Torvalds used
   Bitkeeper](http://www.infoworld.com/t/platforms/linus-torvalds-bitkeeper-blunder-905) (first DVCS) when developing Linux
-- Bitkeeper costs $$
+- Bitkeeper worked great! :)
+- Bitkeeper costs $$ :(
 - Linus wrote git  
 
 ## Git vs Github
