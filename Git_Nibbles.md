@@ -70,6 +70,7 @@ Software you will need:
     2. A text editor like gvim or Notepad++
 
 Time to follow [Todd's amazing Git tutorial](http://ece382.com/datasheets/git_tutorial.html)
+
 	- This tutorial will walk you through how to:
 		- Configure git
 		- Create a repository
