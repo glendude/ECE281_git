@@ -52,16 +52,16 @@ Github = Hosting service for repos created by Git
 
 Software you will need:
 - Running Linux?
-    - Chances are you already have everything you need!
-	- git
-	- Text editor
+    + Chances are you already have everything you need!
+	1. git
+	2. Text editor
 - OSX?
-    - You'll probably need to [download git](http://sourceforge.net/projects/git-osx-installer/)
+    1. You'll probably need to [download git](http://sourceforge.net/projects/git-osx-installer/)
 	- Unless you have xtools...
-    - You probably already have a good text editor
+    2. You probably already have a good text editor
 - Windows?
-    - You'll definitely have to [download git](http://msysgit.googlecode.com/files/Git-1.8.4-preview20130916.exe)
-    - A text editor
+    1. You'll definitely have to [download git](http://msysgit.googlecode.com/files/Git-1.8.4-preview20130916.exe)
+    2. A text editor
 	- gvim
 	- Notepad++
 
