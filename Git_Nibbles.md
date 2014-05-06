@@ -21,10 +21,18 @@ During the next hour I'll present:
 
 ## Why?
 
-- Version Control
+Because: version control 
+
+## Version Control
+
+- Lots of Version Control Software
    - CVN
    - SVN
    - Git
+   - Mercurial
+- We'll focus on git because: 
+   - DVCS
+   - Github
 
 ## How did we get here?
 
