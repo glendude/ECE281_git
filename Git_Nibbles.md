@@ -85,7 +85,7 @@ on [github](www.github.com).
 
 Now we can continue to follow [Todd's amazing Git tutorial](http://ece382.com/datasheets/git_tutorial.html) starting with adding a remote.
 - This portion of the tutorial will guide you through:
-	- Configuring git to '''push''' data to your remote
+	- Configuring git to ```push``` data to your remote
 	- Cloning your repositories on different machines
 	- Forking repos that aren't your own 
 Welcome to the open-source community!!
