@@ -70,14 +70,13 @@ Software you will need:
     2. A text editor like gvim or Notepad++
 
 Time to follow [Todd's amazing Git tutorial](http://ece382.com/datasheets/git_tutorial.html)
-
-	- This tutorial will walk you through how to:
-		- Configure git
-		- Create a repository
-		- Create a file to track
-		- Add the file to the repository
-		- Commit changes
-		- Revert to prior versions
+- This tutorial will walk you through how to:
+	- Configure git
+	- Create a repository
+	- Create a file to track
+	- Add the file to the repository
+	- Commit changes
+	- Revert to prior versions
 ## Your first open-source repository!
 
 ## Step-by-Step Process
