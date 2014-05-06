@@ -1,4 +1,4 @@
-# Git Nibbles Exercise
+# Git Nibbles 
 
 Do you:
 
@@ -81,7 +81,8 @@ Time to follow [Todd's amazing Git tutorial](http://ece382.com/datasheets/git_tu
 ## Your first open-source repository!
 
 Before you can create your own open-source repository you must create an account
-on [github](www.github.com)
+on [github](www.github.com).
+
 Now we can continue to follow [Todd's amazing Git tutorial](http://ece382.com/datasheets/git_tutorial.html) starting with adding a remote.
 - This portion of the tutorial will guide you through:
 	- Configuring git to '''push''' data to your remote
