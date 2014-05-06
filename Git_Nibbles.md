@@ -34,6 +34,12 @@ Because: version control
    - DVCS
    - Github
 
+### Version Control is good for backing up data right?
+
+1. [Have you googled it?](http://blog.codekills.net/2009/12/08/using-git-for-backup-is-asking-for-pain/)
+2. Not necessarily
+	- Git is designed to track code
+
 ## How did we get here?
 
 - [Linus Torvalds used
@@ -51,19 +57,15 @@ Github = Hosting service for repos created by Git
 ## Your first local repository!
 
 Software you will need:
-- Running Linux?
-    + Chances are you already have everything you need!
+- Running Linux? Chances are you already have everything you need!
 	1. git
 	2. Text editor
 - OSX?
-    1. You'll probably need to [download git](http://sourceforge.net/projects/git-osx-installer/)
-	- Unless you have xtools...
+    1. You'll probably need to [download git](http://sourceforge.net/projects/git-osx-installer/) unless you have xtools...
     2. You probably already have a good text editor
 - Windows?
     1. You'll definitely have to [download git](http://msysgit.googlecode.com/files/Git-1.8.4-preview20130916.exe)
-    2. A text editor
-	- gvim
-	- Notepad++
+    2. A text editor like gvim or Notepad++
 
 ## Your first open-source repository!
 
