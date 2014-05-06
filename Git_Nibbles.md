@@ -32,6 +32,7 @@ Because: version control
    - Mercurial
 - We'll focus on Git because: 
    - DVCS
+   - [Snapshots, not differences](http://git-scm.com/book/en/Getting-Started-Git-Basics)
    - Github
 
 ### Version Control is good for backing up data right?
@@ -39,13 +40,14 @@ Because: version control
 1. [Have you googled it?](http://blog.codekills.net/2009/12/08/using-git-for-backup-is-asking-for-pain/)
 2. Not necessarily
 	- Git is designed to track code
+	- Git will not preserve file ownership
 
 ## How did we get here?
 
 - [Linus Torvalds used
   Bitkeeper](http://www.infoworld.com/t/platforms/linus-torvalds-bitkeeper-blunder-905) (first DVCS) when developing Linux
-- Bitkeeper worked great! :)
-- Bitkeeper costs $$ :(
+- Bitkeeper worked great! Linus = :)
+- Bitkeeper was proprietary. [Richard Stallman (GNU/FSF) = :(](http://developers.slashdot.org/comments.pl?sid=145174&cid=12154255)
 - Linus wrote git  
 
 ## Git vs Github
