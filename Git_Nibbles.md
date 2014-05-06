@@ -21,7 +21,10 @@ During the next hour I'll present:
 
 ## Why?
 
-
+- Version Control
+   - CVN
+   - SVN
+   - Git
 
 ## How did we get here?
 
