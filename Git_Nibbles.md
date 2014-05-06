@@ -16,7 +16,7 @@ During the next hour I'll present:
 - The reasons these tools exist and why they make our lives easier
 - A condensed history of git and Github's place within the general GNU movement 
 - Git vs Github
-- How to get started using git
+- How to get started using Git
 - How to get started using Github 
 
 ## Why?
@@ -30,13 +30,21 @@ Because: version control
    - SVN
    - Git
    - Mercurial
-- We'll focus on git because: 
+- We'll focus on Git because: 
    - DVCS
    - Github
 
 ## How did we get here?
 
+- [Linus Torvalds used
+  Bitkeeper](http://www.infoworld.com/t/platforms/linus-torvalds-bitkeeper-blunder-905) (first DVCS) when developing Linux
+- Bitkeeper costs $$
+- Linus wrote git  
+
 ## Git vs Github
+
+Git = Version Control Software (creates repos)
+Github = Hosting service for repos created by Git
 
 ## Your first local repository!
 
