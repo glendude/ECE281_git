@@ -88,6 +88,7 @@ Now we can continue to follow [Todd's amazing Git tutorial](http://ece382.com/da
 	- Configuring git to ```push``` data to your remote
 	- Cloning your repositories on different machines
 	- Forking repos that aren't your own 
+
 Welcome to the open-source community!!
 
 ## Open Source
@@ -99,7 +100,8 @@ Before you re-invent the wheel, a great first step for most projects is to see
 if there is open source work available you can use or build on - Github has
 great search features for this. *fin*
 
-The open source community gives you access to vast amounts of software, to
-include, arguably [the most influential](http://readwrite.com/2011/08/25/as-steve-jobs-steps-down-linux#awesm=~oDw0XRaN4ItIYV). and [most powerful repo of our age](https://github.com/torvalds).
-The open source community is built around building cool things. Criticisms are
-often met with the wonderful response, "where's your pull request?".
+The open source community gives you access to vast amounts of software to
+include arguably [the most influential](http://readwrite.com/2011/08/25/as-steve-jobs-steps-down-linux#awesm=~oDw0XRaN4ItIYV) and [most powerful repo of our age](https://github.com/torvalds).
+Open source contributors are, in general, people who like building cool things. 
+The community is also wonderfully results-oriented, evidenced by the ubiquitous
+and apt retort to any non-constructive criticisms: "where's your pull request?".
