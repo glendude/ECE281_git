@@ -9,7 +9,7 @@ Do you:
 I'm here to help get you started. Along the way I'll introduce you to the world of version
 control and open-source software development...exciting! 
 
-!(http://imgs.xkcd.com/comics/git_commit.png)
+![xkcd comic](http://imgs.xkcd.com/comics/git_commit.png)
 
 ## Overview 
 
