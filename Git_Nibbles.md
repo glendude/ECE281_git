@@ -32,6 +32,7 @@ Because: version control
    - Mercurial
 - We'll focus on Git because: 
    - DVCS
+	- I can work and commit changes while disconnected from the network 
    - [Snapshots, not differences](http://git-scm.com/book/en/Getting-Started-Git-Basics)
    - Github
 
