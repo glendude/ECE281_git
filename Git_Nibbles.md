@@ -42,6 +42,21 @@ Because: Cadets
 - "Sir, I don't know how to write code that will do *insert ubiquitous standard* "
 	- Github Fork
 
+## Open Source
+
+*Forked from ECE382.com* git and Github put you in a great position to use open
+source work in your project or make contributions to open source yourself.
+
+Before you re-invent the wheel, a great first step for most projects is to see
+if there is open source work available you can use or build on - Github has
+great search features for this. *fin*
+
+The open source community gives you access to vast amounts of software to
+include arguably [the most influential](http://readwrite.com/2011/08/25/as-steve-jobs-steps-down-linux#awesm=~oDw0XRaN4ItIYV) and [most powerful repo of our age](https://github.com/torvalds).
+Open source contributors are, in general, people who like building cool things. 
+The community is also wonderfully results-oriented, evidenced by the ubiquitous
+and apt retort to any non-constructive criticisms: "where's your pull request?".
+
 ## Version Control
 
 - Lots of Version Control Software
@@ -110,17 +125,3 @@ Now we can continue to follow [Todd's amazing Git tutorial](http://ece382.com/da
 
 Welcome to the open-source community!!
 
-## Open Source
-
-*Forked from ECE382.com* git and Github put you in a great position to use open
-source work in your project or make contributions to open source yourself.
-
-Before you re-invent the wheel, a great first step for most projects is to see
-if there is open source work available you can use or build on - Github has
-great search features for this. *fin*
-
-The open source community gives you access to vast amounts of software to
-include arguably [the most influential](http://readwrite.com/2011/08/25/as-steve-jobs-steps-down-linux#awesm=~oDw0XRaN4ItIYV) and [most powerful repo of our age](https://github.com/torvalds).
-Open source contributors are, in general, people who like building cool things. 
-The community is also wonderfully results-oriented, evidenced by the ubiquitous
-and apt retort to any non-constructive criticisms: "where's your pull request?".
