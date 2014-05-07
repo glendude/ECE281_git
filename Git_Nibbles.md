@@ -22,11 +22,11 @@ During the next hour I'll present:
 ## Why?
 
 Because: version control 
-
+- Semi-mandatory tool for software development
 Because: real life
+- Group coding?
 
 Because: Cadets
-
 
 - "Sir, my computer was reimaged and I lost all of my code"
 	- ``git clone``
@@ -34,7 +34,7 @@ Because: Cadets
 - "Sir, I swear it worked last night!" 
 	- ``git checkout``
 
-- "Sir, I spent at least 5 hours on this last night"
+- "Sir, I've spent at least 5 hours on this every night for a week"
 	- ``git log``
 
 - "Sir, I don't know how to write code that will do *insert ubiquitous standard* "
@@ -48,8 +48,7 @@ Because: Cadets
    - Git
    - Mercurial
 - We'll focus on Git because: 
-   - DVCS
-	- I can work and commit changes while disconnected from the network 
+   - DVCS (I can work and commit changes while disconnected from the network)
    - [Snapshots, not differences](http://git-scm.com/book/en/Getting-Started-Git-Basics)
    - Github
 
