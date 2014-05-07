@@ -23,11 +23,11 @@ During the next hour I'll present:
 
 Because: version control 
 - Semi-mandatory tool for software development
+
 Because: real life
 - Group coding?
 
 Because: Cadets
-
 - "Sir, my computer was reimaged and I lost all of my code"
 	- ``git clone``
 
