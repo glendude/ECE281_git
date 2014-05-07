@@ -22,6 +22,17 @@ During the next hour I'll present:
 ## Why?
 
 Because: version control 
+Because: real life
+Because: Cadets
+
+"Sir, my computer was reimaged and I lost all of my code"
+```git clone```
+
+"Sir, I swear it worked last night!"
+```git checkout```
+
+"Sir, I spent at least 5 hours on this last night"
+```git log```
 
 ## Version Control
 
