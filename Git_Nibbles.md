@@ -40,6 +40,7 @@ Because: Cadets
 	- ``git log``
 
 - "Sir, I don't know how to write code that will do *insert ubiquitous standard* "
+	- Have you googled it??
 	- Github Fork
 
 ## Open Source
